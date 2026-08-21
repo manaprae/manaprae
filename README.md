@@ -1,6 +1,6 @@
-### Hi there, I'm Mana! 👋✨
+### Hi there! I'm Punyawat Praepaisan (Mana) 👋✨
 
-Welcome to my corner of GitHub! I’m passionate about making tech run smoothly, automating everyday workflows, and building reliable systems.
+Welcome to my GitHub space! I love building smooth CI/CD pipelines, tinkering with Linux servers, and automating everyday workflows with clean scripts.
 
 ---
 
@@ -14,7 +14,6 @@ Welcome to my corner of GitHub! I’m passionate about making tech run smoothly,
 - 📫 **How to reach me:** You can explore my full portfolio & works at [punyawat.takeatripth.com](https://punyawat.takeatripth.com/) or drop me an email at `[your-email@example.com]`.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love turning tedious manual tasks into one-click scripts — if I have to do it twice, I'll automate it! 🚀
-
 ---
 
 <p align="center">
