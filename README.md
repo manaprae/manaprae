@@ -23,4 +23,5 @@ Welcome to my GitHub space! I love building smooth CI/CD pipelines, tinkering wi
 ## 📋 Table of Content
 - [Install WSL สำหรับผู้ต้องการใช้ Linux บน Windows](https://github.com/manaprae/Install-wsl)
 - [MQTT IOT Protocol](https://github.com/manaprae/mqtt-mosquitto)
+- [Node-Red](https://github.com/manaprae/node-red.git)
 
