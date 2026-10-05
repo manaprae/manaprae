@@ -25,3 +25,4 @@ Welcome to my GitHub space! I love building smooth CI/CD pipelines, tinkering wi
 - [MQTT IOT Protocol](https://github.com/manaprae/mqtt-mosquitto)
 - [Node-Red](https://github.com/manaprae/node-red.git)
 - [TIG Stack](https://github.com/manaprae/TIG-Stack)
+- [NextCloud](https://github.com/manaprae/nextcloud.git)
